@@ -13,13 +13,14 @@ Features
 Simple syntax for defining styles and click events.
 Support for variables and arithmetic operations.
 Easy-to-read structure for defining sections and runners.
-Commenting system using the $ symbol.
-Getting Started
-Installation
+Commenting system using the ``$`` symbol.
+
+##
+**Installation**
 To install Dignity, clone the repository:
 
 ``
-git clone https://github.com/yourusername/dignity.git
+git clone https://github.com/Weno-Inc/Dignity
 cd dignity
 ``
 
